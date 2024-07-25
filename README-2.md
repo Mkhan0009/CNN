@@ -1,6 +1,6 @@
 # Convolutional Neural Network from Scratch
 
-This project is part of a series of projects for the course _Deep Learning_ that I attended during my exchange program at National Chiao Tung University (Taiwan). See `task.pdf` for the details of the assignment. See `report.pdf` for the report containing the representation and the analysis of the produced results.
+This project is part of a series of projects for the course _Deep Learning_.
 
 The purpose of this project is to implement a Convolutional Neural Network from scratch for MNIST and CIFAR-10 datasets.
 
@@ -24,7 +24,7 @@ The purpose of this project is to implement a Convolutional Neural Network from 
 
 ## 3. License
 
-Copyright (C) 2021 Alessandro Saviolo
+Copyright (C) 2024 Maliha Khan
 ```
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
